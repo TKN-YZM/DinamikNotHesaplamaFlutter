@@ -4,5 +4,5 @@
 
 ## Projenin Amacı
 
-Ders ismi , alınan not ve kredi değeri ile girilen tüm notların ortalamasını gösteren bir uygulama
+Ders ismi , alınan not harfi ve kredi değeri ile girilen tüm notların ortalamasını gösteren bir uygulama
  
