@@ -1,16 +1,8 @@
-# dinamic_note_code
+# Dinamik Note Hesaplama 
 
-A new Flutter project.
+<img src="dynamic.png" height="450">
 
-## Getting Started
+## Projenin Amacı
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Akademik not ortalamasını hesaplamak için ders adını , harf notunu ve aldığınız puanı girmeniz yeterli olucaktır.
+ 
