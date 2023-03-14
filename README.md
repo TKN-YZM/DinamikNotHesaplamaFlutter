@@ -4,5 +4,5 @@
 
 ## Projenin Amacı
 
-Akademik not ortalamasını hesaplamak için ders adını , harf notunu ve aldığınız puanı girmeniz yeterli olucaktır.
+Ders ismi , alınan not ve kredi değeri ile girilen tüm notların ortalamasını gösteren bir uygulama
  
