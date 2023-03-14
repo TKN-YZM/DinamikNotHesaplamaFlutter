@@ -1,4 +1,4 @@
-# Dinamik Note Hesaplama 
+# Dinamik Not Hesaplama 
 
 <img src="dynamic.png" height="450">
 
