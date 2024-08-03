@@ -1,1 +1,31 @@
-*.dart linguist-language=Dart
+# Mark Dart files as detectable
+*.dart linguist-detectable=true
+
+# Mark C++ files as non-detectable
+*.cpp linguist-detectable=false
+*.hpp linguist-detectable=false
+*.c++ linguist-detectable=false
+*.h++ linguist-detectable=false
+*.cc linguist-detectable=false
+*.hh linguist-detectable=false
+*.cxx linguist-detectable=false
+*.hxx linguist-detectable=false
+
+# Mark CMake files as non-detectable
+*.cmake linguist-detectable=false
+CMakeLists.txt linguist-detectable=false
+
+# Mark Swift files as non-detectable
+*.swift linguist-detectable=false
+
+# Mark C files as non-detectable
+*.c linguist-detectable=false
+*.h linguist-detectable=false
+
+# Mark HTML files as non-detectable
+*.html linguist-detectable=false
+
+# Mark other file types as non-detectable
+*.xml linguist-detectable=false
+*.js linguist-detectable=false
+*.java linguist-detectable=false
